@@ -95,6 +95,7 @@ In Maze Of the Ghost, players take control of a character exploring a maze while
 - First Person kamera kontrolü (transform.totation,orientation.rotation) Camera_Script.cs:38
 - Kameranın yukarı aşağı hareketi ile yürüme animasyonu (transform.localPosition) Camera_Script.cs:52
 - Oyuncunun Stamina ve Bataryasının azaltılması (IEnumerator içinde .fillamount) Battery_Control_Script.cs:42, Stamina_Control_Script.cs:88
+- Account: https://github.com/YusufBalmumcu
 ### Grup Üyesi #2 -23360859729 -Ahmet Furkan Öcel
 - Item alabilme (OnTriggerEnter) Collision_Script.cs:60
 - Item ları oyunda döndürme (transform.Rotate) Item_Script.cs:16
@@ -102,24 +103,15 @@ In Maze Of the Ghost, players take control of a character exploring a maze while
 - Hayaletin oyuncuya doğru hareketi (transform.rotation,transform.position) Ghost_Script.cs:17
 - Kapının anahtar kontrolü (OnTriggerEnter) Collision_Script.cs:70, 76
 - Oyuncunun kar topunu atması (AddForce) Collision_Script.cs:42
----
-## **Final Kısım Görev Dağılımları** [Yusuf Balmumcu, Ahmet Furkan Öcel]
-### Yusuf Balmumcu - 22360859001
-- Pause Menü (20x)
-- Ses ve Müzik (20x)
-- Asenkronizasyon (10x)
-- Farklı State Animasyonlar (10x)
-### Ahmet Furkan Öcel - 23360859729
-- Ana Menü (30x)
-- Ses ve Müzik (10x)
-- Farklı State Animasyonlar (20x)
+- Account: https://github.com/AFurkanOcel
 ---
 ### **Assets**:
-- 3d Battery Model From: [https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106](https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106)
-- 3d Ghost Model From: [https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926](https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926)
-- 3d Key Model From: [https://assetstore.unity.com/packages/3d/props/rust-key-167590](https://assetstore.unity.com/packages/3d/props/rust-key-167590)
-- 3d Snowball Model From: [https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579](https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579)
+- 3D Battery Model From: [https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106](https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106)
+- 3D Ghost Model From: [https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926](https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926)
+- 3D Key Model From: [https://assetstore.unity.com/packages/3d/props/rust-key-167590](https://assetstore.unity.com/packages/3d/props/rust-key-167590)
+- 3D Snowball Model From: [https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579](https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579)
 - Sky Texture From: [https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
+- 3D Hand Model From: [https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297](https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297)
   
 ### **Audio**: 
 - Walking Sound Effect: [https://www.youtube.com/watch?v=y3MVUQnIsoM&ab_channel=HankTank](https://www.youtube.com/watch?v=y3MVUQnIsoM&ab_channel=HankTank)
