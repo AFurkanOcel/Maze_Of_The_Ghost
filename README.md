@@ -127,7 +127,7 @@ In Maze Of the Ghost, players take control of a character exploring a maze while
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/YusufBalmumcu/MazeGame
+   git clone https://github.com/AFurkanOcel/Maze_Of_The_Ghost
 
   - Or use the link down below to try it at itch.io
   - Link: https://waxer16.itch.io/maze-of-the-ghost
