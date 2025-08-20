@@ -2,6 +2,9 @@
 
 Welcome to **Maze Of the Ghost**, a survival game where the player must navigate a haunted maze, evade a pursuing ghost, and strategically use limited resources to escape the maze and win the game.
 
+<img width="1920" height="1080" alt="Maze_Of_The_Ghost_3" src="https://github.com/user-attachments/assets/1ee83c20-aca3-48d0-9a4e-6fcd79c3c4f4" />
+
+
 ---
 
 ## 🎮 Gameplay Overview
