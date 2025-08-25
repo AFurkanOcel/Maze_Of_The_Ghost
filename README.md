@@ -1,5 +1,7 @@
 # 🕹️ Maze Of the Ghost
 
+**Platform**: Web / PC
+
 Welcome to **Maze Of the Ghost**, a survival game where the player must navigate a haunted maze, evade a pursuing ghost, and strategically use limited resources to escape the maze and win the game.
 
 ---
