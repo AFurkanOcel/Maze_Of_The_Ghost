@@ -92,7 +92,7 @@ In Maze Of the Ghost, players take control of a character exploring a maze while
 
 ### **Game Development**: [A. Furkan Öcel, Yusuf Balmumcu]
 
-### Team Member #1 - 23360859729 - A. Furkan Öcel
+### Team Member #1 - A. Furkan Öcel
 - Picking up items (OnTriggerEnter) Collision_Script.cs:60
 - Rotating items in the game (transform.Rotate) Item_Script.cs:16
 - Snowball-Ghost interaction (OnTriggerEnter) Ghost_Script.cs:29
@@ -101,7 +101,7 @@ In Maze Of the Ghost, players take control of a character exploring a maze while
 - Player throwing snowball (AddForce) Collision_Script.cs:42
 - Account: https://github.com/AFurkanOcel
 
-### Team Member #2 - 22360859001 - Yusuf Balmumcu
+### Team Member #2 - Yusuf Balmumcu
 - Character movement with vertical & horizontal input and orientation (Vector3.MoveTowards) Move_Player_Script.cs:75
 - Detecting contact with ground for friction (Physics.Raycast) Move_Player_Script.cs:65
 - First-person camera control (transform.rotation, orientation.rotation) Camera_Script.cs:38
