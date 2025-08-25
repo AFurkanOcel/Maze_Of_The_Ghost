@@ -126,6 +126,9 @@ In Maze Of the Ghost, players take control of a character exploring a maze while
 - Bretahing Sound Effect: [https://www.youtube.com/watch?v=MIxY154tBcg&ab_channel=SoundKind](https://www.youtube.com/watch?v=MIxY154tBcg&ab_channel=SoundKind)
 - Game Music From: [https://assetstore.unity.com/packages/audio/music/rock/halloween-game-music-pack-235870#content](https://assetstore.unity.com/packages/audio/music/rock/halloween-game-music-pack-235870#content)
 
+### **Voice Actors**
+- **Off-screen**: A. Furkan Öcel  
+
 ### **Maze Generation**: [https://www.mazegenerator.net/](https://www.mazegenerator.net/)
 
 
