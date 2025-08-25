@@ -1,4 +1,4 @@
-# 🕹️ Maze Of the Ghost
+# 👻 Maze Of the Ghost
 
 **Platform**: Web / PC
 
