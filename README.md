@@ -114,12 +114,12 @@ In Maze Of the Ghost, players take control of a character exploring a maze while
 ---
 
 ### **Assets**:
+- 3D Hand Model From: [https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297](https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297)
 - 3D Battery Model From: [https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106](https://assetstore.unity.com/packages/3d/props/mobile-power-ups-free-vol-1-36106)
 - 3D Ghost Model From: [https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926](https://assetstore.unity.com/packages/3d/characters/little-ghost-lowpoly-free-271926)
 - 3D Key Model From: [https://assetstore.unity.com/packages/3d/props/rust-key-167590](https://assetstore.unity.com/packages/3d/props/rust-key-167590)
 - 3D Snowball Model From: [https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579](https://assetstore.unity.com/packages/2d/textures-materials/water/stylize-snow-texture-153579)
 - Sky Texture From: [https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
-- 3D Hand Model From: [https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297](https://assetstore.unity.com/packages/3d/characters/stylized-simple-hands-221297)
   
 ### **Audio**: 
 - Walking Sound Effect: [https://www.youtube.com/watch?v=y3MVUQnIsoM&ab_channel=HankTank](https://www.youtube.com/watch?v=y3MVUQnIsoM&ab_channel=HankTank)
