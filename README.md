@@ -224,6 +224,17 @@ https://www.mazegenerator.net/
 
 ---
 
+## Supported Platforms
+
+Maze Of The Ghost is available in two different builds:
+
+- **Web Version** — playable directly in the browser via itch.io (no installation required)
+- **Desktop Version** — standalone PC build for local gameplay
+
+This allows the game to be experienced both as a downloadable desktop application and as an instantly playable web game.
+
+---
+
 ## Installation and Play
 
 1. Clone the repository:
