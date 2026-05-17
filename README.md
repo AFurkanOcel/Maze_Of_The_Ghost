@@ -1,16 +1,22 @@
-# Maze Of The Ghost
+<h1 align="center">Maze Of The Ghost</h1>
 
-First-person survival horror maze game developed with Unity and C#. Explore a haunted maze, manage limited resources, avoid the ghost, and find the way out.
+<p align="center">
+First-person survival horror maze game built with Unity and C#.
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engine-Unity%202022.3.21f1-black"/>
   <img src="https://img.shields.io/badge/Language-C%23-purple"/>
   <img src="https://img.shields.io/badge/UI-TextMeshPro-blue"/>
+  <img src="https://img.shields.io/badge/AI-Ghost%20Enemy-red"/>
+  <img src="https://img.shields.io/badge/Gameplay-Resource%20Management-orange"/>
   <img src="https://img.shields.io/badge/Platform-PC-green"/>
   <img src="https://img.shields.io/badge/Platform-WebGL-brightgreen"/>
   <img src="https://img.shields.io/badge/Genre-Survival%20Horror-red"/>
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
 </p>
+
+---
 
 <img width="1920" height="1080" alt="Maze Of The Ghost gameplay screenshot" src="https://github.com/user-attachments/assets/1ee83c20-aca3-48d0-9a4e-6fcd79c3c4f4" />
 
