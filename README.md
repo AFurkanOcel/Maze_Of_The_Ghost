@@ -152,9 +152,9 @@ Maze_Of_The_Ghost(Web)
 
 ### Game Development
 
-**A. Furkan Ocel** and **Yusuf Balmumcu**
+**A. Furkan ÖCEL** and **Yusuf BALMUMCU**
 
-### A. Furkan Ocel
+### A. Furkan ÖCEL
 
 - Item pickup logic - `Collision_Script.cs`
 - Rotating collectible items - `Item_Script.cs`
@@ -165,7 +165,7 @@ Maze_Of_The_Ghost(Web)
 
 GitHub: https://github.com/AFurkanOcel
 
-### Yusuf Balmumcu
+### Yusuf BALMUMCU
 
 - Character movement and orientation - `Move_Player_Script.cs`
 - Ground detection - `Move_Player_Script.cs`
@@ -195,4 +195,4 @@ GitHub: https://github.com/YusufBalmumcu
 ### Other
 
 - Maze Generation: https://www.mazegenerator.net/
-- Off-screen Voice: A. Furkan Ocel
+- Off-screen Voice: A. Furkan ÖCEL
