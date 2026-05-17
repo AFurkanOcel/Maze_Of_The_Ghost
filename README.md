@@ -11,6 +11,7 @@ Collect resources, evade the ghost, and escape the haunted maze.
   <img src="https://img.shields.io/badge/UI-TextMeshPro-blue"/>
   <img src="https://img.shields.io/badge/Physics-Unity%20Physics-orange"/>
   <img src="https://img.shields.io/badge/Platform-PC-green"/>
+  <img src="https://img.shields.io/badge/Platform-Web-brightgreen"/>
   <img src="https://img.shields.io/badge/Genre-Survival%20Horror-red"/>
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen"/>
 </p>
