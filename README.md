@@ -196,3 +196,9 @@ GitHub: https://github.com/YusufBalmumcu
 
 - Maze Generation: https://www.mazegenerator.net/
 - Off-screen Voice: A. Furkan ÖCEL
+
+---
+
+## License
+
+This project is licensed under the terms included in the repository's `LICENSE` file.
