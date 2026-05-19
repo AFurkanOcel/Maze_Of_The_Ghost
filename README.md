@@ -18,8 +18,6 @@ First-person survival horror maze game built with Unity and C#.
 
 ---
 
-<img width="1920" height="1080" alt="Maze Of The Ghost gameplay screenshot" src="https://github.com/user-attachments/assets/1ee83c20-aca3-48d0-9a4e-6fcd79c3c4f4" />
-
 ## Overview
 
 Maze Of The Ghost is a first-person survival horror game where the player navigates a haunted maze while avoiding a pursuing ghost. The goal is to collect key resources, unlock the exit, and survive long enough to escape.
@@ -31,6 +29,8 @@ The game focuses on:
 - ghost evasion
 - item collection
 - simple win and lose conditions
+
+<img width="1920" height="1080" alt="Maze Of The Ghost gameplay screenshot" src="https://github.com/user-attachments/assets/1ee83c20-aca3-48d0-9a4e-6fcd79c3c4f4" />
 
 ## Platforms
 
