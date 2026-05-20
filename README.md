@@ -30,7 +30,7 @@ The game focuses on:
 - item collection
 - simple win and lose conditions
 
-<img width="1920" height="1080" alt="Maze Of The Ghost gameplay screenshot" src="https://github.com/user-attachments/assets/1ee83c20-aca3-48d0-9a4e-6fcd79c3c4f4" />
+<img width="1920" height="1080" alt="Maze Of The Ghost gameplay screenshot" src="assets/screenshots/gameplay-screenshot.png" />
 
 ## Platforms
 
@@ -49,6 +49,10 @@ Build outputs are intentionally excluded from the repository. Desktop builds sho
 
 ```text
 Maze_Of_The_Ghost/
+|-- assets/
+|   `-- screenshots/
+|       `-- gameplay-screenshot.png
+|
 |-- Maze_Of_The_Ghost(PC)/
 |   |-- Assets/
 |   |   |-- Scenes/
