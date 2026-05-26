@@ -51,8 +51,6 @@ Build outputs are intentionally excluded from the repository. Desktop builds sho
 Maze_Of_The_Ghost/
 |-- assets/
 |   `-- screenshots/
-|       `-- gameplay-screenshot.png
-|
 |-- Maze_Of_The_Ghost(PC)/
 |   |-- Assets/
 |   |   |-- Scenes/
@@ -76,12 +74,10 @@ Maze_Of_The_Ghost/
 |   |       `-- Music_Script.cs
 |   |-- Packages/
 |   `-- ProjectSettings/
-|
 |-- Maze_Of_The_Ghost(Web)/
 |   |-- Assets/
 |   |-- Packages/
 |   `-- ProjectSettings/
-|
 |-- .gitattributes
 |-- .gitignore
 |-- LICENSE
