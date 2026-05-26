@@ -32,6 +32,8 @@ The game focuses on:
 
 <img width="1920" height="1080" alt="Maze Of The Ghost gameplay screenshot" src="assets/screenshots/gameplay-screenshot.png" />
 
+---
+
 ## Platforms
 
 This repository contains the Unity source projects for both PC and WebGL versions:
@@ -44,6 +46,8 @@ The WebGL version is playable on itch.io:
 https://waxer16.itch.io/maze-of-the-ghost
 
 Build outputs are intentionally excluded from the repository. Desktop builds should be distributed separately through GitHub Releases, itch.io, or another release channel.
+
+---
 
 ## Project Structure
 
@@ -84,6 +88,8 @@ Maze_Of_The_Ghost/
 `-- README.md
 ```
 
+---
+
 ## Features
 
 - **First-person movement** with mouse look, walking, sprinting, and camera bobbing.
@@ -94,6 +100,8 @@ Maze_Of_The_Ghost/
 - **Collectible key and locked exit** for the win condition.
 - **Menu, controls, options, win, and lose scenes** built with Unity UI and TextMeshPro.
 - **Audio feedback** for movement, stamina, pickups, and game atmosphere.
+
+---
 
 ## Game Mechanics
 
@@ -111,6 +119,8 @@ The player explores the maze, collects batteries and snowballs, finds the key, a
 
 The ghost actively chases the player. If it catches the player, the lose scene is triggered. Hitting the ghost with a snowball temporarily stops it for 5 seconds.
 
+---
+
 ## Controls
 
 | Input | Action |
@@ -119,6 +129,8 @@ The ghost actively chases the player. If it catches the player, the lose scene i
 | W, A, S, D | Move |
 | Shift | Sprint |
 | Space | Throw snowball, if available |
+
+---
 
 ## Installation and Play
 
@@ -139,6 +151,8 @@ Maze_Of_The_Ghost(Web)
 
 4. Press **Play** in the Unity Editor.
 
+---
+
 ## Technologies Used
 
 - **Unity 2022.3.21f1** - game engine
@@ -147,6 +161,8 @@ Maze_Of_The_Ghost(Web)
 - **Unity UI (UGUI)** - menus and HUD
 - **Unity Physics** - collision, triggers, and rigidbody interactions
 - **WebGL** - browser build target
+
+---
 
 ## Credits
 
@@ -174,6 +190,8 @@ GitHub: https://github.com/AFurkanOcel
 - Stamina and battery systems - `Battery_Control_Script.cs`, `Stamina_Control_Script.cs`
 
 GitHub: https://github.com/YusufBalmumcu
+
+---
 
 ## Assets and Audio
 
